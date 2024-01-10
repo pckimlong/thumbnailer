@@ -1,4 +1,4 @@
-# thumbnailer
+<!-- # thumbnailer
 [![pub package](https://img.shields.io/pub/v/thumbnailer.svg)](https://pub.dartlang.org/packages/thumbnailer)
 
 A Flutter plugin that is able to generate thumbnails for images, pdf and xlsx files
@@ -23,4 +23,4 @@ Check the example tab here in pub.dev or example project on github
 
 * Contributions are welcome!
 * If you want to contribute code please create a PR
-* If you find a bug or want a feature, please fill an issue
+* If you find a bug or want a feature, please fill an issue -->
